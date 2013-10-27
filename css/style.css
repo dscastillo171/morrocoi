@@ -1,0 +1,29 @@
+/* Custom fonts. */
+@font-face{font-family:'Pacifico'; src: url('../font/Pacifico.ttf') format('truetype');}
+@font-face{font-family:'Roboto Light'; src: url('../font/Roboto-Light.ttf') format('truetype');}
+@font-face{font-family:'Roboto Bold'; src: url('../font/Roboto-Bold.ttf') format('truetype');}
+
+/* Colors. */
+.red{color:rgb(242, 115, 117);}
+.yellow{color:rgb(233, 228, 127);}
+.green{color:rgb(144, 218, 102);}
+.blue{color:rgb(132, 186, 242);}
+
+/* Background element. */
+div.overlay{position:fixed; width:100%; height:100%;}
+div.overlay.back{background: url('../img/bedge_grunge.png') repeat;}
+div.overlay.front{background-color: #000; opacity:0.15}
+canvas#funBackground {position: fixed;}
+
+/* Document. */
+h1#tittle{font: 60px/60px 'Pacifico', sans-serif; font-size:6em; color:#555; text-shadow: 0px 1px 1px #CCC; text-align:center; margin:0.6em 0 0.3em;}
+h3#subTittle{font: 36px/36px 'Pacifico', sans-serif; font-size:2em; color:#555; text-shadow: 0px 1px 1px #CCC; text-align:center; margin:1.8em 0 0.6em;}
+div.story{width:100%; padding: 5%; margin: 5% 0; border-radius:0.5em; background-color:rgba(255, 255, 255, 0.85);}
+div.story h4{font: 36px/36px 'Pacifico'; font-size:2em; margin:3% 0 4%;}
+div.story p{font: 18px/18px 'Roboto Light'; text-align:justify; font-size:1.2em;}
+div.story .date{font: 18px/18px 'Roboto Bold'; float:right; font-size:1.1em; font-weight:bold; margin:-1% 0 0;}
+div.story .signature{display:block; text-align:right; margin:4% 0 0; font: 24px/24px 'Pacifico'; font-size:1.5em;}
+
+/* Menu */
+#menu {position:fixed;}
+#menu > * {text-align:center; font-size:1.2em; font-weight:bold;}
