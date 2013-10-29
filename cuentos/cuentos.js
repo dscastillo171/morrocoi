@@ -20,6 +20,17 @@ Morrocoi.cuentos.list = [
 			+ "<br /><br />Veo a mi alrededor, esta oscuro, la lluvia cae por la ventana, tic tac tic tac, una y otra vez. Me levanto, siento que algo extraordinario ha pasado. Era un sueño maravilloso, donde yo era una princesa que bailaba felizmente, viendo su reflejo. Me levanto de la cama, está haciendo frio, camino por la oscuridad de mi cuarto, veo algo cerca al espejo, es un gran brillo que proviene de mí, no era un sueño era un maravilloso recuerdo."
 	},
 	{
+		"tittle": "Todo cambia",
+		"date": "10/27/2013",
+		"author": "Daniela Castillo",
+		"body": "Todo cambia, en algún momento sea tarde o temprano las cosas pasan, empiezan o se acaban. Nunca vas a ser igual que el año pasado y mucho menos serás igual el año que viene. Lo que vives, lo que sientes, lo que te rodea te hace la persona que eres, con la madurez suficiente para ver y decidir por ti mismo que hacer con tus metas, con tus sueños y tus logros, buscar la manera de cumplirlos y de vivirlos por ti y no por otros. Muchas veces le dicen caprichos, porque muchos no están de acuerdo, pero deja de preocuparte por el resto de mortales. Ellos buscaran la manera de ser felices con sus propios sueños, tu busca la manera de ser feliz con lo que sueñas. No pienses mas en los demás, que dirán? De eso depende tu felicidad? Ese es el precio tan bajo que colocas para que tus ojos brillen y tu sonrisa ilumine?"
+			+ "<br /><br />Ellos se van a acostumbrar, cambiaste no eres igual, eres diferente y siempre lo serás. No van a existir dos como tu."
+			+ "<br /><br />Sólo si no te dejas llevar por lo que quiere la sociedad, vas a brillar de la manera que tu quieres, con la fuerza y el poder que salen reflejados de tu alma."
+			+ "<br /><br />Vive día a día, no te preocupes por mañana las cosas cambian en segundos, las opiniones, los pensamientos y hasta las decisiones. Nunca va a ser lo mismo, por eso es mejor dejar de aferrarse al pasado, soltar rencores, curar corazones y recojer lágrimas."
+			+ "<br /><br />No vas a vivir lo mismo dos veces, entonces, porque no disfrutar todo como si fuera la primera ves? Sin conversaciones? Sin miedos? Porque de que sirve si te lanzas por tus sueños, pensando en el fracaso? Seguramente fracasas y te quiebras. Pero que pasaría si pasa eso y estas pensando en que tu lo vas a lograr en que nada se puede interponer te paras con tan solo un pequeño rasguño sin importar la altura de la caída, y te paras mas fuerte y preparado."
+			+ "<br /><br />Al final que importa? Ellos se morirán y tu quedaras solo pensando como hubiera sido, si todos juntos tuviesen lo que quieren en el momento que quieren y con quien lo quieren, no solo ellos, no solo tu, todos juntos con las manos entrelazadas y mirando hacia la misma dirección."
+	},
+	{
 		"tittle": "Obsesión",
 		"date": "10/27/2013",
 		"author": "Nathaly B.",
