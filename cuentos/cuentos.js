@@ -5,7 +5,7 @@ Morrocoi.cuentos = {};
 Morrocoi.cuentos.list = [
 	{
 		"tittle": "Tonos rosas",
-		"date": "10/27/2013",
+		"date": "07/20/2013",
 		"author": "Nathaly B.",
 		"body": "Era una noche llena de caras nuevas, los conocía desde hacía poco pero los sentía parte de mí desde hacía mucho tiempo. Una lucha por vestidos, medias y zapatos, los tonos rosas se mezclaban en cada paso de mi búsqueda, quería evitarlos pero parecían ser la solución adecuada. Vestidos color rosa uno al lado del otro, parecía que me decían que ellos eran los elegidos para esta noche tan especial."
 			+ "<br /><br />Con estos rostros nuevos pero que inspiraban seguridad, amor y confianza, seguí mi búsqueda."
@@ -21,7 +21,7 @@ Morrocoi.cuentos.list = [
 	},
 	{
 		"tittle": "Todo cambia",
-		"date": "10/27/2013",
+		"date": "10/29/2013",
 		"author": "Daniela Castillo",
 		"body": "Todo cambia, en algún momento sea tarde o temprano las cosas pasan, empiezan o se acaban. Nunca vas a ser igual que el año pasado y mucho menos serás igual el año que viene. Lo que vives, lo que sientes, lo que te rodea te hace la persona que eres, con la madurez suficiente para ver y decidir por ti mismo que hacer con tus metas, con tus sueños y tus logros, buscar la manera de cumplirlos y de vivirlos por ti y no por otros. Muchas veces le dicen caprichos, porque muchos no están de acuerdo, pero deja de preocuparte por el resto de mortales. Ellos buscaran la manera de ser felices con sus propios sueños, tu busca la manera de ser feliz con lo que sueñas. No pienses mas en los demás, que dirán? De eso depende tu felicidad? Ese es el precio tan bajo que colocas para que tus ojos brillen y tu sonrisa ilumine?"
 			+ "<br /><br />Ellos se van a acostumbrar, cambiaste no eres igual, eres diferente y siempre lo serás. No van a existir dos como tu."
@@ -32,7 +32,7 @@ Morrocoi.cuentos.list = [
 	},
 	{
 		"tittle": "Obsesión",
-		"date": "10/27/2013",
+		"date": "10/22/2013",
 		"author": "Nathaly B.",
 		"body": "En una preciosa cárcel adornada de pies a cabeza vivía ella, quien todos los días al mirar ese espejo reluciente junto a la ventana, no podía ver sino esa cara que encerraba su verdadero ser."
 			+ "<br /><br />Ese apartamento igual de arreglado que su cárcel, era el único testigo de su vida, él era el único que la conocía, que la había visto tal y como era. Con él no guardaba ningún secreto, él se había vuelto su único confidente, el único que la consolaba y la ayudaba a refugiarse de eso a lo que ella más le temía, a la soledad y la verdad."
