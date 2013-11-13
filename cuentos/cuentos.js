@@ -4,8 +4,43 @@ Morrocoi.cuentos = {};
 
 Morrocoi.cuentos.list = [
 	{
+		"tittle": "Mundos",
+		"date": "11/12/2013",
+		"author": "Nathaly B.",
+		"body": "Era de noche, hacía mucho frio… solo veía un cielo lleno de estrellas y muchos árboles a mi alrededor. Cada paso que daba resonaba a mí alrededor. Estaba perdida en la inmensidad de la naturaleza."
+		+ "Era de noche, hacía mucho frio… solo veía un cielo lleno de estrellas y muchos árboles a mi alrededor. Cada paso que daba resonaba a mí alrededor. Estaba perdida en la inmensidad de la naturaleza."
+		+ "Oía voces, ellas me decían que no intentara hacer nada, simplemente no lo iba a lograr. Me sentía sola, con hambre, frio y sed."
+		+ "No recordaba cómo había llegado a ese lugar, me acordaba que había una gran ciudad, una familia, carros, smog y ruido. Había gente en las calles, en los semáforos. Todo estaba iluminado y nunca paraba, siempre había ese ruido constante del paso del bus, el pito, los carros. Ahora solo veía sombras, oía cosas, no sabía de dónde venían, está paralizada."
+		+ "Después de andar por varias horas, entendí que estaba dando círculos, que no encontraba como salir de ahí. La oscuridad de la noche se volvió eterna, me canse de luchar contra lo que no podía controlar."
+		+ "Me acostumbre a tener miedo, a obedecer a esas voces que me decían que hacer, que pensar, que opinar."
+		+ "Una noche, después de llorar, de estar cansada de ese lugar frio y lúgubre, ese bosque que era mi prisión, me quede dormida."
+		+ "Al despertar y abrir los ojos pude ver la inmensidad del amor, estaba en un sitio lleno de luces de todos los colores, tan brillantes que me costaba mantener los ojos abiertos."
+		+ "De repente, ante mis ojos apareció una pequeña hada de ojos luminosos como dos luceros, llenos de vida. Esta hada hermosa con sus grandes ojos y su maravilloso corazón me cuidaba desde lejos. En ese momento deje de sentir miedo, dolor, tristeza."
+		+ "Era un ser lleno de luz, que irradiaba amor, felicidad y alegría. Su mirada me inquietaba, no sabía qué hacer en ese momento, ¿estaré dormida? Era lo único que podía pensar. Estaba recostada en el suelo, parecía ser tierra, estaba un poco húmeda, pero ya no sentía frio, estaba con la temperatura ideal."
+		+ "Podía recordar todas esas cosas que me gustaban hacer pero había dejado de lado, mi pasión por el canto y las artes plásticas. Había olvidado que la palabra es un don, que pocos saben utilizar de forma creativa, que abre puertas y construye nuevos caminos."
+		+ "Poco a poco, esta hada fue acercándose, poco a poco pude ver más, era un ser maravilloso, que brillaba iluminando todo el espacio."
+		+ "Los ojos de esta hada, se conectaron con los míos y en pocos momentos, la conexión era total. Yo podía sentir en mi interior que esta conexión tan fuerte de amor y aprecio nunca iba a terminar."
+		+ "Seguía abrumada, confundida, pero en mi corazón había tranquilidad, solo podía concentrarme en esos ojos que me decían tranquila, estarás bien, confía."
+		+ "De repente me perdí en un sueño, del cual no podía despertar, veía seres de diferentes colores y formas, que me tranquilizaban y me hacen sentir feliz."
+		+ "Deje de sentir… por un momento todo quedó paralizado, no escuchaba ni sentía nada."
+		+ "Abrí los ojos, estaba acostada en mi cama, podía oír el pito de los carros, el ritmo de la ciudad. No sabía cómo había llegado de regreso a mi casa, de hecho no sabía dónde había estado. ¿Sera que había sido un sueño?"
+		+ "Salí de mi cuarto, todo estaba oscuro. Era hora de arreglarse para seguir la rutina. Cada paso que daba, parecía la primera vez que estuviera caminando, recorriendo estos caminos. De repente, esa voz esa hada estaba junto a mí, diciéndome confía. Esa hada estaba ahí para apoyarme y no dejarme desfallecer."
+		+ "Poco después entendí, que esos miedos, culpas y remordimientos que había guardado toda mi vida, eran esa cárcel que no me permitía ser feliz, pero esa hada llego a mi camino, para darme la mano y mostrarme que el camino está en mí."
+	},
+	{
+		"tittle": "Todo cambia",
+		"date": "10/29/2013",
+		"author": "Daniela Castillo",
+		"body": "Todo cambia, en algún momento sea tarde o temprano las cosas pasan, empiezan o se acaban. Nunca vas a ser igual que el año pasado y mucho menos serás igual el año que viene. Lo que vives, lo que sientes, lo que te rodea te hace la persona que eres, con la madurez suficiente para ver y decidir por ti mismo que hacer con tus metas, con tus sueños y tus logros, buscar la manera de cumplirlos y de vivirlos por ti y no por otros. Muchas veces le dicen caprichos, porque muchos no están de acuerdo, pero deja de preocuparte por el resto de mortales. Ellos buscaran la manera de ser felices con sus propios sueños, tu busca la manera de ser feliz con lo que sueñas. No pienses mas en los demás, que dirán? De eso depende tu felicidad? Ese es el precio tan bajo que colocas para que tus ojos brillen y tu sonrisa ilumine?"
+			+ "<br /><br />Ellos se van a acostumbrar, cambiaste no eres igual, eres diferente y siempre lo serás. No van a existir dos como tu."
+			+ "<br /><br />Sólo si no te dejas llevar por lo que quiere la sociedad, vas a brillar de la manera que tu quieres, con la fuerza y el poder que salen reflejados de tu alma."
+			+ "<br /><br />Vive día a día, no te preocupes por mañana las cosas cambian en segundos, las opiniones, los pensamientos y hasta las decisiones. Nunca va a ser lo mismo, por eso es mejor dejar de aferrarse al pasado, soltar rencores, curar corazones y recojer lágrimas."
+			+ "<br /><br />No vas a vivir lo mismo dos veces, entonces, porque no disfrutar todo como si fuera la primera ves? Sin conversaciones? Sin miedos? Porque de que sirve si te lanzas por tus sueños, pensando en el fracaso? Seguramente fracasas y te quiebras. Pero que pasaría si pasa eso y estas pensando en que tu lo vas a lograr en que nada se puede interponer te paras con tan solo un pequeño rasguño sin importar la altura de la caída, y te paras mas fuerte y preparado."
+			+ "<br /><br />Al final que importa? Ellos se morirán y tu quedaras solo pensando como hubiera sido, si todos juntos tuviesen lo que quieren en el momento que quieren y con quien lo quieren, no solo ellos, no solo tu, todos juntos con las manos entrelazadas y mirando hacia la misma dirección."
+	},
+	{
 		"tittle": "Tonos rosas",
-		"date": "07/20/2013",
+		"date": "10/27/2013",
 		"author": "Nathaly B.",
 		"body": "Era una noche llena de caras nuevas, los conocía desde hacía poco pero los sentía parte de mí desde hacía mucho tiempo. Una lucha por vestidos, medias y zapatos, los tonos rosas se mezclaban en cada paso de mi búsqueda, quería evitarlos pero parecían ser la solución adecuada. Vestidos color rosa uno al lado del otro, parecía que me decían que ellos eran los elegidos para esta noche tan especial."
 			+ "<br /><br />Con estos rostros nuevos pero que inspiraban seguridad, amor y confianza, seguí mi búsqueda."
@@ -20,19 +55,8 @@ Morrocoi.cuentos.list = [
 			+ "<br /><br />Veo a mi alrededor, esta oscuro, la lluvia cae por la ventana, tic tac tic tac, una y otra vez. Me levanto, siento que algo extraordinario ha pasado. Era un sueño maravilloso, donde yo era una princesa que bailaba felizmente, viendo su reflejo. Me levanto de la cama, está haciendo frio, camino por la oscuridad de mi cuarto, veo algo cerca al espejo, es un gran brillo que proviene de mí, no era un sueño era un maravilloso recuerdo."
 	},
 	{
-		"tittle": "Todo cambia",
-		"date": "10/29/2013",
-		"author": "Daniela Castillo",
-		"body": "Todo cambia, en algún momento sea tarde o temprano las cosas pasan, empiezan o se acaban. Nunca vas a ser igual que el año pasado y mucho menos serás igual el año que viene. Lo que vives, lo que sientes, lo que te rodea te hace la persona que eres, con la madurez suficiente para ver y decidir por ti mismo que hacer con tus metas, con tus sueños y tus logros, buscar la manera de cumplirlos y de vivirlos por ti y no por otros. Muchas veces le dicen caprichos, porque muchos no están de acuerdo, pero deja de preocuparte por el resto de mortales. Ellos buscaran la manera de ser felices con sus propios sueños, tu busca la manera de ser feliz con lo que sueñas. No pienses mas en los demás, que dirán? De eso depende tu felicidad? Ese es el precio tan bajo que colocas para que tus ojos brillen y tu sonrisa ilumine?"
-			+ "<br /><br />Ellos se van a acostumbrar, cambiaste no eres igual, eres diferente y siempre lo serás. No van a existir dos como tu."
-			+ "<br /><br />Sólo si no te dejas llevar por lo que quiere la sociedad, vas a brillar de la manera que tu quieres, con la fuerza y el poder que salen reflejados de tu alma."
-			+ "<br /><br />Vive día a día, no te preocupes por mañana las cosas cambian en segundos, las opiniones, los pensamientos y hasta las decisiones. Nunca va a ser lo mismo, por eso es mejor dejar de aferrarse al pasado, soltar rencores, curar corazones y recojer lágrimas."
-			+ "<br /><br />No vas a vivir lo mismo dos veces, entonces, porque no disfrutar todo como si fuera la primera ves? Sin conversaciones? Sin miedos? Porque de que sirve si te lanzas por tus sueños, pensando en el fracaso? Seguramente fracasas y te quiebras. Pero que pasaría si pasa eso y estas pensando en que tu lo vas a lograr en que nada se puede interponer te paras con tan solo un pequeño rasguño sin importar la altura de la caída, y te paras mas fuerte y preparado."
-			+ "<br /><br />Al final que importa? Ellos se morirán y tu quedaras solo pensando como hubiera sido, si todos juntos tuviesen lo que quieren en el momento que quieren y con quien lo quieren, no solo ellos, no solo tu, todos juntos con las manos entrelazadas y mirando hacia la misma dirección."
-	},
-	{
 		"tittle": "Obsesión",
-		"date": "10/22/2013",
+		"date": "10/25/2013",
 		"author": "Nathaly B.",
 		"body": "En una preciosa cárcel adornada de pies a cabeza vivía ella, quien todos los días al mirar ese espejo reluciente junto a la ventana, no podía ver sino esa cara que encerraba su verdadero ser."
 			+ "<br /><br />Ese apartamento igual de arreglado que su cárcel, era el único testigo de su vida, él era el único que la conocía, que la había visto tal y como era. Con él no guardaba ningún secreto, él se había vuelto su único confidente, el único que la consolaba y la ayudaba a refugiarse de eso a lo que ella más le temía, a la soledad y la verdad."
